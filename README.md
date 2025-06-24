@@ -10,25 +10,26 @@ Verificar a quantidade de linhas e colunas de um DataFrame;<br>
 Conferir os tipos de dados de cada coluna de um DataFrame;<br>
 Selecionar uma ou múltiplas colunas.<br>
 
-Aula 1 - Aula_01_Python_para_Data_Science.ipynb
-Desafio imobiliária
-alunos.ipynb
-Aula 2 - Pandas_Dados_sus.ipynb
+Aula 1 - Aula_01_Python_para_Data_Science.ipynb<br>
+Desafio imobiliária<br>
+alunos.ipynb<br>
 
-3 - Biblioteca Numpy 
+Aula 2 - Pandas_Dados_sus.ipynb<br>
 
-4 - Biblioteca Pandas
+3 - Biblioteca Numpy <br>
 
-5 - Data Visualization 
-Importar o módulo express da biblioteca Plotly;
-Criar um gráfico de linhas interativo;
-Explorar as funcionalidades da biblioteca Plotly;
-Modificar o tamanho de um gráfico interativo;
-Rotacionar os ticks do eixo X;
-Adicionar título e rótulos nos eixos;
-Personalizar os gráficos;
-Alterar cores;
-Adicionar marcadores;
-Salvar gráficos interativos no formato HTML.
+4 - Biblioteca Pandas<br>
 
-6 - Challenge
+5 - Data Visualization <br>
+Importar o módulo express da biblioteca Plotly;<br>
+Criar um gráfico de linhas interativo;<br>
+Explorar as funcionalidades da biblioteca Plotly;<br>
+Modificar o tamanho de um gráfico interativo;<br>
+Rotacionar os ticks do eixo X;<br>
+Adicionar título e rótulos nos eixos;<br>
+Personalizar os gráficos;<br>
+Alterar cores;<br>
+Adicionar marcadores;<br>
+Salvar gráficos interativos no formato HTML.<br>
+
+6 - Challenge<br>

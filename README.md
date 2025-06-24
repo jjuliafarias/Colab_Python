@@ -33,3 +33,5 @@ Adicionar marcadores;<br>
 Salvar gráficos interativos no formato HTML.<br>
 
 6 - Challenge<br>
+
+7 - IA aplicada a Data Science<br>

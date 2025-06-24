@@ -2,13 +2,13 @@
 Desafios resolvidos no Colab.
 
 Aprendendo:
-Importar a biblioteca Pandas;
-Realizar a leitura de arquivos csv;
-Identificar um DataFrame;
-Visualizar linhas iniciais e finais de um DataFrame;
-Verificar a quantidade de linhas e colunas de um DataFrame;
-Conferir os tipos de dados de cada coluna de um DataFrame;
-Selecionar uma ou múltiplas colunas.
+Importar a biblioteca Pandas;<br>
+Realizar a leitura de arquivos csv;<br>
+Identificar um DataFrame;<br>
+Visualizar linhas iniciais e finais de um DataFrame;<br>
+Verificar a quantidade de linhas e colunas de um DataFrame;<br>
+Conferir os tipos de dados de cada coluna de um DataFrame;<br>
+Selecionar uma ou múltiplas colunas.<br>
 
 Aula 1 - Aula_01_Python_para_Data_Science.ipynb
 Desafio imobiliária

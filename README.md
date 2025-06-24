@@ -15,7 +15,9 @@ Desafio imobiliária
 alunos.ipynb
 Aula 2 - Pandas_Dados_sus.ipynb
 
+3 - Biblioteca Numpy 
 
+4 - Biblioteca Pandas
 
 5 - Data Visualization 
 Importar o módulo express da biblioteca Plotly;
@@ -28,3 +30,5 @@ Personalizar os gráficos;
 Alterar cores;
 Adicionar marcadores;
 Salvar gráficos interativos no formato HTML.
+
+6 - Challenge
